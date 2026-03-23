@@ -1,0 +1,266 @@
+{
+  "date": {
+    "date": "2026-03-23",
+    "display": "2026年3月23日星期一",
+    "timestamp": "2026-03-23T02:31:49.081Z",
+    "year": "2026",
+    "month": "03",
+    "day": "23"
+  },
+  "categories": [
+    {
+      "id": "ai",
+      "name": "AI 人工智能",
+      "icon": "🤖",
+      "items": [
+        {
+          "title": "越南《人工智能法》正式生效，成东南亚首个 AI 专门立法国家",
+          "summary": "越南于3月1日正式实施《人工智能法》，标志着东盟 AI 治理进入新阶段。",
+          "source": "环球时报",
+          "url": "https://www.huanqiu.com",
+          "time": "今日",
+          "tag": "政策",
+          "image": "https://picsum.photos/seed/ai0/400/250"
+        },
+        {
+          "title": "荣耀发布机器人手机，AI 从\"云端对话\"走向\"端侧执行\"",
+          "summary": "MWC 2026 上，荣耀推出融合具身智能的机器人手机，被视为 AI 智能体重要入口。",
+          "source": "新华网",
+          "url": "https://www.xinhuanet.com",
+          "time": "今日",
+          "tag": "产品",
+          "image": "https://picsum.photos/seed/ai1/400/250"
+        },
+        {
+          "title": "阿里千问大模型负责人林俊旸卸任",
+          "summary": "阿里巴巴最年轻 P10 级技术专家宣布离开千问团队，折射 AI 人才高流动性。",
+          "source": "上观新闻",
+          "url": "https://www.jfdaily.com",
+          "time": "今日",
+          "tag": "人事",
+          "image": "https://picsum.photos/seed/ai2/400/250"
+        },
+        {
+          "title": "黄仁勋：300 亿投资 OpenAI\"可能是最后一次\"",
+          "summary": "英伟达 CEO 表示，随着 OpenAI 准备上市，近期 300 亿美元投资可能是最后一次。",
+          "source": "新浪财经",
+          "url": "https://finance.sina.com.cn",
+          "time": "今日",
+          "tag": "融资",
+          "image": "https://picsum.photos/seed/ai3/400/250"
+        },
+        {
+          "title": "蚂蚁集团联合清华发布 AReaL v1.0 强化学习框架",
+          "summary": "首个全异步训推解耦的大模型强化学习训练系统，让智能体强化学习开箱即用。",
+          "source": "科创板日报",
+          "url": "https://www.chinastarmarket.cn",
+          "time": "昨日",
+          "tag": "开源",
+          "image": "https://picsum.photos/seed/ai4/400/250"
+        },
+        {
+          "title": "我国首个国家级人形机器人标准体系发布",
+          "summary": "我国首个国家级\"人形机器人与具身智能标准体系\"正式发布。",
+          "source": "软盟资讯",
+          "url": "https://www.ruanmeng.com",
+          "time": "3月2日",
+          "tag": "标准",
+          "image": "https://picsum.photos/seed/ai5/400/250"
+        }
+      ]
+    },
+    {
+      "id": "ecommerce",
+      "name": "跨境电商",
+      "icon": "🌍",
+      "items": [
+        {
+          "title": "深圳华强北发布 AI 硬件全球销售热力图",
+          "summary": "2026年1-2月数据显示，无人机海内外市场需求保持旺盛。",
+          "source": "新华社",
+          "url": "https://www.xinhuanet.com",
+          "time": "今日",
+          "tag": "数据",
+          "image": "https://picsum.photos/seed/shop0/400/250"
+        },
+        {
+          "title": "雷军两会建议：提高人形机器人使用率",
+          "summary": "小米 CEO 提出 5 份建议，涉及智能制造应用和人才培养。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com",
+          "time": "今日",
+          "tag": "政策",
+          "image": "https://picsum.photos/seed/shop1/400/250"
+        },
+        {
+          "title": "华为发布 Atlas 950 SuperPoD",
+          "summary": "MWC 2026 期间，华为发布多款超节点产品，助力运营商智能化升级。",
+          "source": "华为官网",
+          "url": "https://www.huawei.com",
+          "time": "昨日",
+          "tag": "产品",
+          "image": "https://picsum.photos/seed/shop2/400/250"
+        },
+        {
+          "title": "千问\"一句话下单\"功能 DAU 突破 7300 万",
+          "summary": "超过 400 万 60 岁以上新用户通过 AI 完成外卖下单。",
+          "source": "新浪财经",
+          "url": "https://finance.sina.com.cn",
+          "time": "今日",
+          "tag": "数据",
+          "image": "https://picsum.photos/seed/shop3/400/250"
+        }
+      ]
+    },
+    {
+      "id": "startup",
+      "name": "产品创业",
+      "icon": "💡",
+      "items": [
+        {
+          "title": "OpenAI 完成 1100 亿美元新一轮融资",
+          "summary": "该轮融资包括英伟达、亚马逊和软银的投资承诺。",
+          "source": "彭博社",
+          "url": "https://www.bloomberg.com",
+          "time": "今日",
+          "tag": "融资",
+          "image": "https://picsum.photos/seed/rocket0/400/250"
+        },
+        {
+          "title": "北京数据和人工智能安全检测中心揭牌",
+          "summary": "AI 产业迎来专业鉴定机构，七大创新成果发布。",
+          "source": "北京日报",
+          "url": "https://www.bjd.com.cn",
+          "time": "3月2日",
+          "tag": "政策",
+          "image": "https://picsum.photos/seed/rocket1/400/250"
+        },
+        {
+          "title": "Honor 推出全球首款机器人手机",
+          "summary": "荣耀 CEO 表示，这是智能手机的\"全新物种\"。",
+          "source": "MWC 2026",
+          "url": "https://www.mwcbarcelona.com",
+          "time": "今日",
+          "tag": "创新",
+          "image": "https://picsum.photos/seed/rocket2/400/250"
+        }
+      ]
+    },
+    {
+      "id": "web3",
+      "name": "区块链 Web3",
+      "icon": "⛓️",
+      "items": [
+        {
+          "title": "比特币 ETF 资金流入创新高，机构配置加速",
+          "summary": "美国比特币 ETF 单日净流入超 10 亿美元，显示机构投资者持续加仓。",
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com",
+          "time": "今日",
+          "tag": "BTC",
+          "image": "https://picsum.photos/seed/crypto0/400/250"
+        },
+        {
+          "title": "以太坊 Dencun 升级完成，Layer2 费用大幅下降",
+          "summary": "升级引入 EIP-4844，使 Layer2 交易费用降低 90% 以上。",
+          "source": "The Block",
+          "url": "https://www.theblock.co",
+          "time": "今日",
+          "tag": "ETH",
+          "image": "https://picsum.photos/seed/crypto1/400/250"
+        },
+        {
+          "title": "香港证监会批准首批现货加密 ETF",
+          "summary": "香港正式批准比特币和以太坊现货 ETF，预计 4 月上市交易。",
+          "source": "南华早报",
+          "url": "https://www.scmp.com",
+          "time": "昨日",
+          "tag": "ETF",
+          "image": "https://picsum.photos/seed/crypto2/400/250"
+        },
+        {
+          "title": "DeFi 协议总锁仓量突破 1000 亿美元",
+          "summary": "受市场回暖带动，DeFi 生态 TVL 创下近两年新高。",
+          "source": "DeFiLlama",
+          "url": "https://defillama.com",
+          "time": "今日",
+          "tag": "DeFi",
+          "image": "https://picsum.photos/seed/crypto3/400/250"
+        },
+        {
+          "title": "央行数字货币跨境支付试点扩大",
+          "summary": "数字人民币跨境支付试点新增 5 个国家和地区。",
+          "source": "财新",
+          "url": "https://www.caixin.com",
+          "time": "3月3日",
+          "tag": "CBDC",
+          "image": "https://picsum.photos/seed/crypto4/400/250"
+        }
+      ]
+    },
+    {
+      "id": "newenergy",
+      "name": "新能源",
+      "icon": "⚡",
+      "items": [
+        {
+          "title": "宁德时代发布新一代固态电池技术",
+          "summary": "能量密度突破 500Wh/kg，预计 2027 年量产装车。",
+          "source": "证券时报",
+          "url": "https://www.stcn.com",
+          "time": "今日",
+          "tag": "固态电池",
+          "image": "https://picsum.photos/seed/energy0/400/250"
+        },
+        {
+          "title": "特斯拉上海储能超级工厂投产",
+          "summary": "年产能 40GWh，产品将面向全球市场供应。",
+          "source": "澎湃新闻",
+          "url": "https://www.thepaper.cn",
+          "time": "今日",
+          "tag": "Tesla",
+          "image": "https://picsum.photos/seed/energy1/400/250"
+        },
+        {
+          "title": "全国碳市场扩容，纳入钢铁水泥行业",
+          "summary": "碳交易市场覆盖范围扩大，推动高耗能行业绿色转型。",
+          "source": "生态环境部",
+          "url": "https://www.mee.gov.cn",
+          "time": "昨日",
+          "tag": "碳中和",
+          "image": "https://picsum.photos/seed/energy2/400/250"
+        },
+        {
+          "title": "光伏组件出口量同比增长 35%",
+          "summary": "中国光伏产品海外需求持续旺盛，欧洲和新兴市场为主要增长点。",
+          "source": "光伏們",
+          "url": "https://www.pvmen.com",
+          "time": "今日",
+          "tag": "光伏",
+          "image": "https://picsum.photos/seed/energy3/400/250"
+        },
+        {
+          "title": "氢能源重卡商业化运营启动",
+          "summary": "首批 100 辆氢燃料电池重卡投入物流干线运营。",
+          "source": "中国汽车报",
+          "url": "https://www.cnautonews.com",
+          "time": "3月2日",
+          "tag": "氢能",
+          "image": "https://picsum.photos/seed/energy4/400/250"
+        },
+        {
+          "title": "比亚迪发布第五代 DM 混动技术",
+          "summary": "百公里油耗降至 2.9L，综合续航超 2000 公里。",
+          "source": "比亚迪",
+          "url": "https://www.byd.com",
+          "time": "今日",
+          "tag": "BYD",
+          "image": "https://picsum.photos/seed/energy5/400/250"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-03-23T02:31:49.081Z",
+  "version": "3.0.0",
+  "source": "tavily-kimi"
+}
