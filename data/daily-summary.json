@@ -36,7 +36,7 @@
         {"title": "Steam 春季特惠开启", "url": "https://store.steampowered.com", "source": "Steam", "time": "3天前"}
       ]
     },
-    "energy": {
+    "newenergy": {
       "title": "新能源",
       "icon": "⚡",
       "news": [
