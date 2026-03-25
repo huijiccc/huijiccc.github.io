@@ -32,5 +32,5 @@ jobs:
       - name: Commit and push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit-message: "📰 Update daily news $(date +%Y-%m-%d)"
+          commit_message: "📰 Update daily news $(date +%Y-%m-%d)"
           file_pattern: "data/*.json index.html archive/*.html"
