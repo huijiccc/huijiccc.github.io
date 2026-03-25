@@ -13,7 +13,7 @@ from html import unescape
 
 CONFIG = {
     "topics": ["游戏", "AI科技", "股票"],
-    "output_dir": "output",
+    "output_dir": ".",
 }
 
 # RSS 订阅源列表
